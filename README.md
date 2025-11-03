@@ -10,7 +10,6 @@ Soy especialista en soporte técnico integral, documentación técnica y/o pedag
 
 - `CV Fernando.pdf`: versión actualizada de mi currículum vitae
 
-
 ## 📌 Propósito
 
 Este repositorio tiene como objetivo:
@@ -23,8 +22,7 @@ Este repositorio tiene como objetivo:
 
 - Soporte técnico y resolución de incidencias
 - Documentación técnica y pedagógica
-- Infraestructura cloud (AWS, GCP, Azure)
-- Ciberseguridad y protección de datos
+- Infraestructura cloud (AWS, GCP)
 - Capacitación interna y creación de recursos visuales
 
 ## 🤝 Contacto
