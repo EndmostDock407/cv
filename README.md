@@ -1,4 +1,4 @@
-# 📄 CV de Fernando
+# 📄 CV de Fernando Romero Robles
 
 Este repositorio contiene mi currículum vitae actualizado, disponible en formato PDF. Está pensado como un recurso abierto para facilitar el acceso a mi perfil profesional, tanto para procesos de selección como para colaboraciones técnicas, educativas o documentales.
 
